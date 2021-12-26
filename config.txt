@@ -1,0 +1,10 @@
+              
+
+
+
+
+                           {
+                           "ip":"OMMDIVYAM.aternos.me",
+                           "port":"56533",
+                           "name":"gamer_bot"  
+                           }
